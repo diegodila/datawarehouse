@@ -54,3 +54,14 @@ mais facil de implantar
 dados de forma resumida
 menor risco de falhas
 periodos mais curtos
+
+passos para implementacao de um dw
+1 definicao do escopo do projeto
+necessidade do negocio
+adquirir e denominarr as ferramentas de extracao
+definir os requisitos dos dados
+documentacao
+definir o banco de dados do dw
+extracao adequada dos dados
+carga inicial
+manter o dw
