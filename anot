@@ -1,0 +1,56 @@
+dw = armazem de dados
+reunir fontes da empresa
+inteligencia de negocio (finalidade)
+
+bi (bussiness intelligence)
+coleta e org analise, compartilhamento e monitoramento de informações (bi)
+conjunto de tecnicas e ferramentas para auxiliar a tomada de decisão
+ferramentas (powerbi, datastudio, tableau)
+
+dw e bi
+informações facilmente acessivel
+adaptavel a mudanças
+informações em tempo habil (convertida em açoes)
+confiavel (info que serao utilizadas na tomada de decisoes)
+seguro (dados sigilozos)
+entendimento e aceitaçao e uso
+
+oltp e olap
+
+online transaction processing
+oltp (banco de dados transacional)
+execução operacional da empresa
+modelo relacional (alto nivel de detalhe)
+armazenamento por sistemas empresariais (erp)
+dados em tempo de exec
+visualizar, inserir, alterar ou deletar as info
+nao recomendado para analise gerenciais
+varios usuarios simultaneos
+
+online analytical process
+permite analise gerenciais e tomada de decisoes
+dados estruturados utilizando modelagem dimensional
+melhor desempenho para grandes volumes de dados
+dados nao sofrem alteracoes
+disponivel apenas para visualizacao de dados
+dados tratados
+olap (data warehouse)
+
+data warehouse e data mart
+lugar onde guardamos os dados
+data warehouse estruturados
+processamento analiticos online
+data mart tem a finalidade diferente do dw
+é um subconjunto de dw
+é usando pra guardar dado de uma fonte especifica
+
+data warehouse centraliza informações
+maior tamanho
+informações detalhadas
+periodos longos
+
+data mart dados especificos
+mais facil de implantar
+dados de forma resumida
+menor risco de falhas
+periodos mais curtos
