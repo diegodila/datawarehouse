@@ -65,3 +65,30 @@ definir o banco de dados do dw
 extracao adequada dos dados
 carga inicial
 manter o dw
+
+modelo de entidade relacionamento
+atributos e como elas relacionam entre si
+uma entidade pode ser categorizada sendo algo fisico ou logico, de acordo com sua existencia no mundo real
+
+entidade fisica
+produto
+cliente
+veiculo
+
+entidade logica
+venda
+desconto
+promocao
+
+relacionamento
+associacao entre duas ou mais entidades
+devemos identificar o relacionamento entre elas
+
+tipos de relacionamentos
+um p um
+um p muitos
+muitos p muitos
+
+ex. pessoa e rg
+ex. pessoa doc. veiculo
+ex. pessoas musica
